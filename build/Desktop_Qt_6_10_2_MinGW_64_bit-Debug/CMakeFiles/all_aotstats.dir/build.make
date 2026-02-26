@@ -79,6 +79,7 @@ CMakeFiles/all_aotstats: .rcc/qmlcache/all_aotstats.txt
 .rcc/qmlcache/all_aotstats.aotstats: apps/inbox/.rcc/qmlcache/module_inbox.aotstats
 .rcc/qmlcache/all_aotstats.aotstats: apps/latestnews/.rcc/qmlcache/module_latestnews.aotstats
 .rcc/qmlcache/all_aotstats.aotstats: apps/webradio/.rcc/qmlcache/module_webradio.aotstats
+.rcc/qmlcache/all_aotstats.aotstats: apps/plc/.rcc/qmlcache/module_plc.aotstats
 .rcc/qmlcache/all_aotstats.aotstats: mainui/.rcc/qmlcache/module_mainui.aotstats
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=D:\QTProject\QML-Dashboard\build\Desktop_Qt_6_10_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/all_aotstats.aotstats, .rcc/qmlcache/all_aotstats.txt"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.2/mingw_64/bin/qmlaotstats.exe aggregate D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.rcc/qmlcache/all_aotstats.aotstatslist D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.rcc/qmlcache/all_aotstats.aotstats

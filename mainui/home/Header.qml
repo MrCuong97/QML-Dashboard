@@ -6,7 +6,9 @@ import utils
 
 Item {
     id: root
-
+    property alias menuItemText: menuTextLabel.text
+    property bool reoderDashBoardItems: false
+    property bool reorderSwitchVisible: false
     DropShadow {
         anchors.fill: backgroundColor
         verticalOffset: Style.resize(3)
@@ -23,6 +25,54 @@ Item {
         anchors.right: parent.right
         color: "#fff"
     }
+    Label {
+        id: menuTextLabel
+        anchors {
+            verticalCenter: parent.verticalCenter
+            left: parent.left
+            leftMargin: Style.resize(90)
+        }
+    }
+    Row {
+        anchors.right: parent.right
+        anchors.rightMargin: Style.resize(30)
+        anchors.verticalCenter: parent.verticalCenter
+        spacing: Style.resize(20)
+        Switch {
+            width: Style.resize(130)
+            height: Style.resize(26)
+
+            opacity: root.reorderSwitchVisible ? 1.0 : 0.0
+            Behavior on opacity {
+                NumberAnimation {
+                    duration: 200
+                }
+            }
+            text: qsTr("Reorder")
+            checked: root.reoderDashBoardItems
+            onClicked: {
+                root.reoderDashBoardItems = !root.reoderDashBoardItems
+            }
+        }
+        ToolButton {
+            id: setting
+            width: Style.resize(26)
+            height: Style.resize(26)
+            icon.source: Style.icon("settings")
+            onClicked: {
+                dropDownMenuLoader.active = !dropDownMenuLoader.active
+            }
+        }
+
+        ToolButton {
+            width: Style.resize(26)
+            height: Style.resize(26)
+            icon.source: Style.icon("onoff")
+            onClicked: {
+                Qt.quit()
+            }
+        }
+    }
 
     Loader {
         id: dropDownMenuLoader
@@ -35,6 +85,45 @@ Item {
         active: false
         opacity: active ? 1.0 : 0.0
         visible: (opacity > 0.0)
-        Behavior on opacity { NumberAnimation { duration: 200 } }
+        Behavior on opacity {
+            NumberAnimation {
+                duration: 200
+            }
+        }
+        sourceComponent: Frame {
+            anchors.fill: parent
+            background: Image {
+                width: Style.resize(sourceSize.width)
+                height: Style.resize(sourceSize.height)
+                source: Style.gfx("dropdown")
+            }
+            contentItem: Column {
+                anchors.top: parent.top
+                anchors.topMargin: Style.resize(20)
+                anchors.left: parent.left
+                anchors.leftMargin: Style.resize(30)
+                spacing: Style.resize(8)
+                Label {
+                    text: qsTr("Select theme")
+                }
+                Repeater {
+                    model: ["Green", "Orange"]
+                    delegate: RadioButton {
+                        width: Style.resize(100)
+                        height: Style.resize(26)
+                        text: qsTr("%1").arg(modelData)
+                        checked: (Style.theme === modelData.toLowerCase())
+                        onClicked: {
+                            if (modelData === "Green") {
+                                Style.setGreenTheme()
+                            } else {
+                                Style.setOrangeTheme()
+                            }
+                            dropDownMenuLoader.active = false
+                        }
+                    }
+                }
+            }
+        }
     }
 }

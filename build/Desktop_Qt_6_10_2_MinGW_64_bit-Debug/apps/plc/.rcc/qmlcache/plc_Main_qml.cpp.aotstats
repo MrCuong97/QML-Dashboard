@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/apps/plc/Main.qml"
+                }
+            ],
+            "moduleId": "plc(plc)"
+        }
+    ]
+}

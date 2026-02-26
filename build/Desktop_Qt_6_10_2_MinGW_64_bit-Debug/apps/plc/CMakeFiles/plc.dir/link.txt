@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libplc.a CMakeFiles/plc.dir/plc_autogen/mocs_compilation.cpp.obj CMakeFiles/plc.dir/plc_qmltyperegistrations.cpp.obj CMakeFiles/plc.dir/.qt/rcc/qrc_qmake_plc.cpp.obj CMakeFiles/plc.dir/.rcc/qmlcache/plc_qmlcache_loader.cpp.obj CMakeFiles/plc.dir/.rcc/qmlcache/plc_Main_qml.cpp.obj CMakeFiles/plc.dir/.qt/rcc/qrc_plc_raw_qml_0.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libplc.a

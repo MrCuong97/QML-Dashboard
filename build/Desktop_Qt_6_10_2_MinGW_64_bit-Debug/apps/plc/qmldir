@@ -1,0 +1,8 @@
+module plc
+linktarget plcplugin
+optional plugin plcplugin
+classname plcPlugin
+typeinfo plc.qmltypes
+prefer :/qt/qml/plc/
+Main 1.0 Main.qml
+

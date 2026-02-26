@@ -1,0 +1,6 @@
+module plc
+typeinfo appplc.qmltypes
+prefer :/qt/qml/plc/
+Main 254.0 Main.qml
+depends QtQuick
+

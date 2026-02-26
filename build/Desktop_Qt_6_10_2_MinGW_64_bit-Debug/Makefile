@@ -460,6 +460,19 @@ module_webradio_aotstats_target/fast:
 .PHONY : module_webradio_aotstats_target/fast
 
 #=============================================================================
+# Target rules for targets named module_plc_aotstats_target
+
+# Build rule for target.
+module_plc_aotstats_target: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 module_plc_aotstats_target
+.PHONY : module_plc_aotstats_target
+
+# fast build rule for target.
+module_plc_aotstats_target/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\module_plc_aotstats_target.dir\build.make CMakeFiles/module_plc_aotstats_target.dir/build
+.PHONY : module_plc_aotstats_target/fast
+
+#=============================================================================
 # Target rules for targets named module_mainui_aotstats_target
 
 # Build rule for target.
@@ -2748,6 +2761,227 @@ webradioplugin_init_autogen/fast:
 .PHONY : webradioplugin_init_autogen/fast
 
 #=============================================================================
+# Target rules for targets named plc
+
+# Build rule for target.
+plc: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc
+.PHONY : plc
+
+# fast build rule for target.
+plc/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc.dir\build.make apps/plc/CMakeFiles/plc.dir/build
+.PHONY : plc/fast
+
+#=============================================================================
+# Target rules for targets named plc_qmltyperegistration
+
+# Build rule for target.
+plc_qmltyperegistration: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_qmltyperegistration
+.PHONY : plc_qmltyperegistration
+
+# fast build rule for target.
+plc_qmltyperegistration/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_qmltyperegistration.dir\build.make apps/plc/CMakeFiles/plc_qmltyperegistration.dir/build
+.PHONY : plc_qmltyperegistration/fast
+
+#=============================================================================
+# Target rules for targets named plc_resources_1
+
+# Build rule for target.
+plc_resources_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_resources_1
+.PHONY : plc_resources_1
+
+# fast build rule for target.
+plc_resources_1/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_resources_1.dir\build.make apps/plc/CMakeFiles/plc_resources_1.dir/build
+.PHONY : plc_resources_1/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin
+
+# Build rule for target.
+plcplugin: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin
+.PHONY : plcplugin
+
+# fast build rule for target.
+plcplugin/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin.dir\build.make apps/plc/CMakeFiles/plcplugin.dir/build
+.PHONY : plcplugin/fast
+
+#=============================================================================
+# Target rules for targets named plc_qmllint
+
+# Build rule for target.
+plc_qmllint: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_qmllint
+.PHONY : plc_qmllint
+
+# fast build rule for target.
+plc_qmllint/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_qmllint.dir\build.make apps/plc/CMakeFiles/plc_qmllint.dir/build
+.PHONY : plc_qmllint/fast
+
+#=============================================================================
+# Target rules for targets named plc_qmllint_json
+
+# Build rule for target.
+plc_qmllint_json: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_qmllint_json
+.PHONY : plc_qmllint_json
+
+# fast build rule for target.
+plc_qmllint_json/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_qmllint_json.dir\build.make apps/plc/CMakeFiles/plc_qmllint_json.dir/build
+.PHONY : plc_qmllint_json/fast
+
+#=============================================================================
+# Target rules for targets named plc_qmllint_module
+
+# Build rule for target.
+plc_qmllint_module: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_qmllint_module
+.PHONY : plc_qmllint_module
+
+# fast build rule for target.
+plc_qmllint_module/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_qmllint_module.dir\build.make apps/plc/CMakeFiles/plc_qmllint_module.dir/build
+.PHONY : plc_qmllint_module/fast
+
+#=============================================================================
+# Target rules for targets named plc_resources_2
+
+# Build rule for target.
+plc_resources_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_resources_2
+.PHONY : plc_resources_2
+
+# fast build rule for target.
+plc_resources_2/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_resources_2.dir\build.make apps/plc/CMakeFiles/plc_resources_2.dir/build
+.PHONY : plc_resources_2/fast
+
+#=============================================================================
+# Target rules for targets named plc_copy_qml
+
+# Build rule for target.
+plc_copy_qml: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_copy_qml
+.PHONY : plc_copy_qml
+
+# fast build rule for target.
+plc_copy_qml/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_copy_qml.dir\build.make apps/plc/CMakeFiles/plc_copy_qml.dir/build
+.PHONY : plc_copy_qml/fast
+
+#=============================================================================
+# Target rules for targets named plc_copy_res
+
+# Build rule for target.
+plc_copy_res: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_copy_res
+.PHONY : plc_copy_res
+
+# fast build rule for target.
+plc_copy_res/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_copy_res.dir\build.make apps/plc/CMakeFiles/plc_copy_res.dir/build
+.PHONY : plc_copy_res/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin_init
+
+# Build rule for target.
+plcplugin_init: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin_init
+.PHONY : plcplugin_init
+
+# fast build rule for target.
+plcplugin_init/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin_init.dir\build.make apps/plc/CMakeFiles/plcplugin_init.dir/build
+.PHONY : plcplugin_init/fast
+
+#=============================================================================
+# Target rules for targets named plc_autogen_timestamp_deps
+
+# Build rule for target.
+plc_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_autogen_timestamp_deps
+.PHONY : plc_autogen_timestamp_deps
+
+# fast build rule for target.
+plc_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_autogen_timestamp_deps.dir\build.make apps/plc/CMakeFiles/plc_autogen_timestamp_deps.dir/build
+.PHONY : plc_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named plc_autogen
+
+# Build rule for target.
+plc_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plc_autogen
+.PHONY : plc_autogen
+
+# fast build rule for target.
+plc_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plc_autogen.dir\build.make apps/plc/CMakeFiles/plc_autogen.dir/build
+.PHONY : plc_autogen/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin_autogen_timestamp_deps
+
+# Build rule for target.
+plcplugin_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin_autogen_timestamp_deps
+.PHONY : plcplugin_autogen_timestamp_deps
+
+# fast build rule for target.
+plcplugin_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin_autogen_timestamp_deps.dir\build.make apps/plc/CMakeFiles/plcplugin_autogen_timestamp_deps.dir/build
+.PHONY : plcplugin_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin_autogen
+
+# Build rule for target.
+plcplugin_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin_autogen
+.PHONY : plcplugin_autogen
+
+# fast build rule for target.
+plcplugin_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin_autogen.dir\build.make apps/plc/CMakeFiles/plcplugin_autogen.dir/build
+.PHONY : plcplugin_autogen/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin_init_autogen_timestamp_deps
+
+# Build rule for target.
+plcplugin_init_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin_init_autogen_timestamp_deps
+.PHONY : plcplugin_init_autogen_timestamp_deps
+
+# fast build rule for target.
+plcplugin_init_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin_init_autogen_timestamp_deps.dir\build.make apps/plc/CMakeFiles/plcplugin_init_autogen_timestamp_deps.dir/build
+.PHONY : plcplugin_init_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named plcplugin_init_autogen
+
+# Build rule for target.
+plcplugin_init_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 plcplugin_init_autogen
+.PHONY : plcplugin_init_autogen
+
+# fast build rule for target.
+plcplugin_init_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f apps\plc\CMakeFiles\plcplugin_init_autogen.dir\build.make apps/plc/CMakeFiles/plcplugin_init_autogen.dir/build
+.PHONY : plcplugin_init_autogen/fast
+
+#=============================================================================
 # Target rules for targets named mainui
 
 # Build rule for target.
@@ -3291,11 +3525,24 @@ help:
 	@echo ... module_inbox_aotstats_target
 	@echo ... module_latestnews_aotstats_target
 	@echo ... module_mainui_aotstats_target
+	@echo ... module_plc_aotstats_target
 	@echo ... module_popups_aotstats_target
 	@echo ... module_qdashboardstyle_aotstats_target
 	@echo ... module_utils_aotstats_target
 	@echo ... module_views_aotstats_target
 	@echo ... module_webradio_aotstats_target
+	@echo ... plc_autogen
+	@echo ... plc_autogen_timestamp_deps
+	@echo ... plc_copy_qml
+	@echo ... plc_copy_res
+	@echo ... plc_qmllint
+	@echo ... plc_qmllint_json
+	@echo ... plc_qmllint_module
+	@echo ... plc_qmltyperegistration
+	@echo ... plcplugin_autogen
+	@echo ... plcplugin_autogen_timestamp_deps
+	@echo ... plcplugin_init_autogen
+	@echo ... plcplugin_init_autogen_timestamp_deps
 	@echo ... popups_autogen
 	@echo ... popups_autogen_timestamp_deps
 	@echo ... popups_copy_qml
@@ -3387,6 +3634,11 @@ help:
 	@echo ... mainui_resources_2
 	@echo ... mainuiplugin
 	@echo ... mainuiplugin_init
+	@echo ... plc
+	@echo ... plc_resources_1
+	@echo ... plc_resources_2
+	@echo ... plcplugin
+	@echo ... plcplugin_init
 	@echo ... popups
 	@echo ... popups_resources_1
 	@echo ... popups_resources_2

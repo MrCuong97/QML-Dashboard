@@ -1,0 +1,14 @@
+-rootPath
+D:/QTProject/QML-Dashboard/apps/plc
+-cmake-output
+-output-file
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/plc/.qt/qml_imports/appplc_build.cmake
+-importPath
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/plc
+-importPath
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/plc/plc
+-importPath
+C:/Qt/6.10.2/mingw_64/qml
+-qrcFiles
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/plc/.qt/rcc/qmake_plc.qrc
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/plc/.qt/rcc/appplc_raw_qml_0.qrc

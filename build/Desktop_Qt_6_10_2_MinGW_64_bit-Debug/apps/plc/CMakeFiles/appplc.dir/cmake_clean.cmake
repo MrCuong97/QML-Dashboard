@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../appplc.exe"
+  "../../appplc.exe.manifest"
+  "../../appplc.pdb"
+  ".qt/rcc/qrc_appplc_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_plc.cpp"
+  ".rcc/qmlcache/appplc_Main_qml.cpp"
+  ".rcc/qmlcache/appplc_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appplc_qmlcache_loader.cpp"
+  "CMakeFiles/appplc.dir/.qt/rcc/qrc_appplc_raw_qml_0.cpp.obj"
+  "CMakeFiles/appplc.dir/.qt/rcc/qrc_appplc_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appplc.dir/.qt/rcc/qrc_qmake_plc.cpp.obj"
+  "CMakeFiles/appplc.dir/.qt/rcc/qrc_qmake_plc.cpp.obj.d"
+  "CMakeFiles/appplc.dir/.rcc/qmlcache/appplc_Main_qml.cpp.obj"
+  "CMakeFiles/appplc.dir/.rcc/qmlcache/appplc_Main_qml.cpp.obj.d"
+  "CMakeFiles/appplc.dir/.rcc/qmlcache/appplc_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appplc.dir/.rcc/qmlcache/appplc_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appplc.dir/appplc_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appplc.dir/appplc_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appplc.dir/appplc_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appplc.dir/appplc_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appplc.dir/main.cpp.obj"
+  "CMakeFiles/appplc.dir/main.cpp.obj.d"
+  "CMakeFiles/appplc_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appplc_autogen.dir/ParseCache.txt"
+  "appplc_autogen"
+  "appplc_autogen/mocs_compilation.cpp"
+  "appplc_autogen/timestamp"
+  "appplc_qmltyperegistrations.cpp"
+  "libappplc.dll.a"
+  "meta_types/appplc_json_file_list.txt"
+  "meta_types/appplc_json_file_list.txt.timestamp"
+  "meta_types/qt6appplc_metatypes.json"
+  "meta_types/qt6appplc_metatypes.json.gen"
+  "plc/appplc.qmltypes"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appplc.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
