@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_controls_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_controls.cpp"
+  ".rcc/qmlcache/controls_BaseCard_qml.cpp"
+  ".rcc/qmlcache/controls_BaseCard_qml.cpp.aotstats"
+  ".rcc/qmlcache/controls_Separator_qml.cpp"
+  ".rcc/qmlcache/controls_Separator_qml.cpp.aotstats"
+  ".rcc/qmlcache/controls_qmlcache_loader.cpp"
+  "CMakeFiles/controls.dir/.qt/rcc/qrc_controls_raw_qml_0.cpp.obj"
+  "CMakeFiles/controls.dir/.qt/rcc/qrc_controls_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/controls.dir/.qt/rcc/qrc_qmake_controls.cpp.obj"
+  "CMakeFiles/controls.dir/.qt/rcc/qrc_qmake_controls.cpp.obj.d"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_BaseCard_qml.cpp.obj"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_BaseCard_qml.cpp.obj.d"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_Separator_qml.cpp.obj"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_Separator_qml.cpp.obj.d"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_qmlcache_loader.cpp.obj"
+  "CMakeFiles/controls.dir/.rcc/qmlcache/controls_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/controls.dir/controls_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/controls.dir/controls_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/controls.dir/controls_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/controls.dir/controls_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/controls_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/controls_autogen.dir/ParseCache.txt"
+  "controls_autogen"
+  "controls.qmltypes"
+  "controls_autogen/mocs_compilation.cpp"
+  "controls_autogen/timestamp"
+  "controls_qmltyperegistrations.cpp"
+  "libcontrols.a"
+  "libcontrols.pdb"
+  "meta_types/controls_json_file_list.txt"
+  "meta_types/controls_json_file_list.txt.timestamp"
+  "meta_types/qt6controls_metatypes.json"
+  "meta_types/qt6controls_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/controls.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

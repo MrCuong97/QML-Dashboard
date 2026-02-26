@@ -1,0 +1,13 @@
+module mainui
+linktarget mainuiplugin
+optional plugin mainuiplugin
+classname mainuiPlugin
+typeinfo mainui.qmltypes
+prefer :/qt/qml/mainui/
+Dashboard 1.0 home/Dashboard.qml
+Header 1.0 home/Header.qml
+HomePage 1.0 home/HomePage.qml
+MainMenu 1.0 mainmenu/MainMenu.qml
+MainMenuList 1.0 mainmenu/MainMenuList.qml
+UserInfo 1.0 mainmenu/UserInfo.qml
+

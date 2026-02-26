@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc liblatestnewsplugin.a CMakeFiles/latestnewsplugin.dir/latestnewsplugin_autogen/mocs_compilation.cpp.obj CMakeFiles/latestnewsplugin.dir/latestnewsplugin_latestnewsPlugin.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe liblatestnewsplugin.a

@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libpopupsplugin.a CMakeFiles/popupsplugin.dir/popupsplugin_autogen/mocs_compilation.cpp.obj CMakeFiles/popupsplugin.dir/popupsplugin_popupsPlugin.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libpopupsplugin.a

@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 161,
+                            "functionName": "fill",
+                            "line": 4,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 251,
+                            "functionName": "color",
+                            "line": 6,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/imports/utils/Tracer.qml"
+                }
+            ],
+            "moduleId": "utils(utils)"
+        }
+    ]
+}

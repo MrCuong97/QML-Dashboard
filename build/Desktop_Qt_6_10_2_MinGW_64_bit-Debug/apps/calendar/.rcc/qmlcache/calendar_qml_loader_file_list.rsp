@@ -1,0 +1,8 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/calendar/.qt/rcc/qmake_calendar.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/calendar/.qt/rcc/calendar_raw_qml_0.qrc
+/qt/qml/calendar/Main.qml
+/qt/qml/calendar/views/TasksListView.qml
+/qt/qml/calendar/panels/CalendarPanel.qml
+/qt/qml/calendar/stores/RootStore.qml

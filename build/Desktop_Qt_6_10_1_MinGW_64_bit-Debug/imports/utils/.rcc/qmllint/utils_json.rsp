@@ -1,0 +1,13 @@
+--bare
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports/utils/.qt/rcc/qmake_utils.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports/utils/.qt/rcc/utils_raw_qml_0.qrc
+D:/QTProject/QML-Dashboard/imports/utils/Style.qml
+D:/QTProject/QML-Dashboard/imports/utils/Tracer.qml
+--json
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/utils_qmllint.json

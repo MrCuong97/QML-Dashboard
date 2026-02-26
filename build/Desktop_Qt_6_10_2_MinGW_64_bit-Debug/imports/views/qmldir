@@ -1,0 +1,8 @@
+module views
+linktarget viewsplugin
+optional plugin viewsplugin
+classname viewsPlugin
+typeinfo views.qmltypes
+prefer :/qt/qml/views/
+RemindersListView 1.0 RemindersListView.qml
+

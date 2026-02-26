@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/inbox/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/apps/inbox/Main.qml</file>
+    <file alias="views/InboxView.qml">D:/QTProject/QML-Dashboard/apps/inbox/views/InboxView.qml</file>
+    <file alias="controls/InboxViewDelegate.qml">D:/QTProject/QML-Dashboard/apps/inbox/controls/InboxViewDelegate.qml</file>
+    <file alias="stores/RootStore.qml">D:/QTProject/QML-Dashboard/apps/inbox/stores/RootStore.qml</file>
+    <file alias="stores/EmailsListModel.qml">D:/QTProject/QML-Dashboard/apps/inbox/stores/EmailsListModel.qml</file>
+  </qresource>
+</RCC>
+

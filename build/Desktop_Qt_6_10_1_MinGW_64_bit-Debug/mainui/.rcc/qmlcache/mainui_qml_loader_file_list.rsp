@@ -1,0 +1,10 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/mainui/.qt/rcc/qmake_mainui.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/mainui/.qt/rcc/mainui_raw_qml_0.qrc
+/qt/qml/mainui/home/Dashboard.qml
+/qt/qml/mainui/home/Header.qml
+/qt/qml/mainui/home/HomePage.qml
+/qt/qml/mainui/mainmenu/MainMenu.qml
+/qt/qml/mainui/mainmenu/MainMenuList.qml
+/qt/qml/mainui/mainmenu/UserInfo.qml

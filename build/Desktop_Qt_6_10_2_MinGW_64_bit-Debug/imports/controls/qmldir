@@ -1,0 +1,9 @@
+module controls
+linktarget controlsplugin
+optional plugin controlsplugin
+classname controlsPlugin
+typeinfo controls.qmltypes
+prefer :/qt/qml/controls/
+BaseCard 1.0 BaseCard.qml
+Separator 1.0 Separator.qml
+

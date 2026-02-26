@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/popups/">
+    <file alias="NewOrReplyEmailPopup.qml">D:/QTProject/QML-Dashboard/imports/popups/NewOrReplyEmailPopup.qml</file>
+    <file alias="NewReminderPopup.qml">D:/QTProject/QML-Dashboard/imports/popups/NewReminderPopup.qml</file>
+    <file alias="NewTaskPopup.qml">D:/QTProject/QML-Dashboard/imports/popups/NewTaskPopup.qml</file>
+    <file alias="Popups.qml">D:/QTProject/QML-Dashboard/imports/popups/Popups.qml</file>
+  </qresource>
+</RCC>
+

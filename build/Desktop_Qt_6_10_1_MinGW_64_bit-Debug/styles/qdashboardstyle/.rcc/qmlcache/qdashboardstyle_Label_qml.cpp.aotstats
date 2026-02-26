@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 234,
+                            "functionName": "color",
+                            "line": 10,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 116,
+                            "functionName": "family",
+                            "line": 9,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 104,
+                            "functionName": "pixelSize",
+                            "line": 11,
+                            "message": "Cannot access value for name Style"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Label.qml"
+                }
+            ],
+            "moduleId": "qdashboardstyle(qdashboardstyle)"
+        }
+    ]
+}

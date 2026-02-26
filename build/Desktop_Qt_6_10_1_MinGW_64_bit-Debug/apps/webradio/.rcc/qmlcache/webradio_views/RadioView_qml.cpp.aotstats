@@ -1,0 +1,303 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 11,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 12,
+                            "message": "Could not find property \"height\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 151,
+                            "functionName": "spacing",
+                            "line": 25,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 120,
+                            "functionName": "fill",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 69,
+                            "functionName": "topMargin",
+                            "line": 21,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 55,
+                            "functionName": "leftMargin",
+                            "line": 22,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 46,
+                            "functionName": "rightMargin",
+                            "line": 23,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 44,
+                            "functionName": "bottomMargin",
+                            "line": 24,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 29,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 28,
+                            "message": "Could not find property \"pixelSize\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 50,
+                            "functionName": "preferredWidth",
+                            "line": 33,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 43,
+                            "functionName": "preferredHeight",
+                            "line": 34,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 56,
+                            "functionName": "alignment",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 43,
+                            "message": "Could not find property \"horizontalAlignment\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "wrapMode",
+                            "line": 44,
+                            "message": "Could not find property \"wrapMode\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 45,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 11,
+                            "functionName": "preferredWidth",
+                            "line": 40,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 9,
+                            "functionName": "preferredHeight",
+                            "line": 41,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 36,
+                            "functionName": "alignment",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "wrapMode",
+                            "line": 54,
+                            "message": "Could not find property \"wrapMode\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 55,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 23,
+                            "functionName": "preferredHeight",
+                            "line": 49,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 32,
+                            "functionName": "alignment",
+                            "line": 50,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 15,
+                            "functionName": "topMargin",
+                            "line": 51,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "family",
+                            "line": 52,
+                            "message": "Could not find property \"family\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 53,
+                            "message": "Could not find property \"pixelSize\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 41,
+                            "functionName": "alignment",
+                            "line": 60,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 69,
+                            "functionName": "spacing",
+                            "line": 67,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 50,
+                            "functionName": "preferredWidth",
+                            "line": 64,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 45,
+                            "functionName": "preferredHeight",
+                            "line": 65,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 30,
+                            "functionName": "alignment",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 116,
+                            "functionName": "source",
+                            "line": 72,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 95,
+                            "functionName": "preferredWidth",
+                            "line": 69,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 78,
+                            "functionName": "preferredHeight",
+                            "line": 70,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 36,
+                            "functionName": "alignment",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 13,
+                            "functionName": "preferredHeight",
+                            "line": 75,
+                            "message": "Cannot access value for name Style"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/apps/webradio/views/RadioView.qml"
+                }
+            ],
+            "moduleId": "webradio(webradio)"
+        }
+    ]
+}

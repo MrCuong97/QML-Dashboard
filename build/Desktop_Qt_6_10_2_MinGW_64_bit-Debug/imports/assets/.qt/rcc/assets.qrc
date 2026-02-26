@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="/assets">
+    <file alias="icons/left.png">D:/QTProject/QML-Dashboard/imports/assets/icons/left.png</file>
+    <file alias="icons/right.png">D:/QTProject/QML-Dashboard/imports/assets/icons/right.png</file>
+    <file alias="icons/close.png">D:/QTProject/QML-Dashboard/imports/assets/icons/close.png</file>
+    <file alias="icons/onoff.png">D:/QTProject/QML-Dashboard/imports/assets/icons/onoff.png</file>
+    <file alias="icons/settings.png">D:/QTProject/QML-Dashboard/imports/assets/icons/settings.png</file>
+    <file alias="icons/expand.png">D:/QTProject/QML-Dashboard/imports/assets/icons/expand.png</file>
+    <file alias="icons/reply.png">D:/QTProject/QML-Dashboard/imports/assets/icons/reply.png</file>
+    <file alias="icons/calendar.png">D:/QTProject/QML-Dashboard/imports/assets/icons/calendar.png</file>
+    <file alias="icons/dashboard.png">D:/QTProject/QML-Dashboard/imports/assets/icons/dashboard.png</file>
+    <file alias="icons/latest news.png">D:/QTProject/QML-Dashboard/imports/assets/icons/latest news.png</file>
+    <file alias="icons/web radio.png">D:/QTProject/QML-Dashboard/imports/assets/icons/web radio.png</file>
+    <file alias="icons/courses.png">D:/QTProject/QML-Dashboard/imports/assets/icons/courses.png</file>
+    <file alias="icons/inbox.png">D:/QTProject/QML-Dashboard/imports/assets/icons/inbox.png</file>
+    <file alias="icons/location.png">D:/QTProject/QML-Dashboard/imports/assets/icons/location.png</file>
+    <file alias="icons/status.png">D:/QTProject/QML-Dashboard/imports/assets/icons/status.png</file>
+    <file alias="icons/username.png">D:/QTProject/QML-Dashboard/imports/assets/icons/username.png</file>
+    <file alias="icons/music_note_green.png">D:/QTProject/QML-Dashboard/imports/assets/icons/music_note_green.png</file>
+    <file alias="icons/next.png">D:/QTProject/QML-Dashboard/imports/assets/icons/next.png</file>
+    <file alias="icons/play.png">D:/QTProject/QML-Dashboard/imports/assets/icons/play.png</file>
+    <file alias="icons/speaker.png">D:/QTProject/QML-Dashboard/imports/assets/icons/speaker.png</file>
+    <file alias="icons/music_note_orange.png">D:/QTProject/QML-Dashboard/imports/assets/icons/music_note_orange.png</file>
+    <file alias="icons/pause.png">D:/QTProject/QML-Dashboard/imports/assets/icons/pause.png</file>
+    <file alias="icons/previous.png">D:/QTProject/QML-Dashboard/imports/assets/icons/previous.png</file>
+    <file alias="icons/stop.png">D:/QTProject/QML-Dashboard/imports/assets/icons/stop.png</file>
+    <file alias="images/card.png">D:/QTProject/QML-Dashboard/imports/assets/images/card.png</file>
+    <file alias="images/dark-texture-background.png">D:/QTProject/QML-Dashboard/imports/assets/images/dark-texture-background.png</file>
+    <file alias="images/dropdown.png">D:/QTProject/QML-Dashboard/imports/assets/images/dropdown.png</file>
+    <file alias="images/graph.png">D:/QTProject/QML-Dashboard/imports/assets/images/graph.png</file>
+    <file alias="images/outercircle.png">D:/QTProject/QML-Dashboard/imports/assets/images/outercircle.png</file>
+    <file alias="images/user.png">D:/QTProject/QML-Dashboard/imports/assets/images/user.png</file>
+    <file alias="images/radio_stations/station_logo.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/station_logo.png</file>
+    <file alias="images/radio_stations/BBC Radio 1.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/BBC Radio 1.png</file>
+    <file alias="images/radio_stations/BBC Radio 2.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/BBC Radio 2.png</file>
+    <file alias="images/radio_stations/Capital FM.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Capital FM.png</file>
+    <file alias="images/radio_stations/KISS.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/KISS.png</file>
+    <file alias="images/radio_stations/Heart Radio UK.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Heart Radio UK.png</file>
+    <file alias="images/radio_stations/Magic 105.4.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Magic 105.4.png</file>
+    <file alias="images/radio_stations/BBC Radio 3.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/BBC Radio 3.png</file>
+    <file alias="images/radio_stations/Classic FM.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Classic FM.png</file>
+    <file alias="images/radio_stations/Smooth.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Smooth.png</file>
+    <file alias="images/radio_stations/Kerrang.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Kerrang.png</file>
+    <file alias="images/radio_stations/BBCUK Radio 5 live.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/BBCUK Radio 5 live.png</file>
+    <file alias="images/radio_stations/KCRW.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/KCRW.png</file>
+    <file alias="images/radio_stations/Brooklyn Radio.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/Brooklyn Radio.png</file>
+    <file alias="images/radio_stations/KEXP.png">D:/QTProject/QML-Dashboard/imports/assets/images/radio_stations/KEXP.png</file>
+    <file alias="mesh/note.obj">D:/QTProject/QML-Dashboard/imports/assets/mesh/note.obj</file>
+    <file alias="mesh/note_mesh.mesh">D:/QTProject/QML-Dashboard/imports/assets/mesh/note_mesh.mesh</file>
+    <file alias="fonts/Quicksand_Bold.otf">D:/QTProject/QML-Dashboard/imports/assets/fonts/Quicksand_Bold.otf</file>
+    <file alias="fonts/Quicksand_Book.otf">D:/QTProject/QML-Dashboard/imports/assets/fonts/Quicksand_Book.otf</file>
+  </qresource>
+</RCC>
+

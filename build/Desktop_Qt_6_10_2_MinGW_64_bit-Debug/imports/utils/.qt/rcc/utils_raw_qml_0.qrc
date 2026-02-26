@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/utils/">
+    <file alias="Style.qml">D:/QTProject/QML-Dashboard/imports/utils/Style.qml</file>
+    <file alias="Tracer.qml">D:/QTProject/QML-Dashboard/imports/utils/Tracer.qml</file>
+  </qresource>
+</RCC>
+

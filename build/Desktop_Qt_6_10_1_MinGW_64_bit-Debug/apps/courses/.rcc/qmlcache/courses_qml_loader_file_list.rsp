@@ -1,0 +1,10 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/courses/.qt/rcc/qmake_courses.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/courses/.qt/rcc/courses_raw_qml_0.qrc
+/qt/qml/courses/Main.qml
+/qt/qml/courses/controls/HintCard.qml
+/qt/qml/courses/controls/CircularBar.qml
+/qt/qml/courses/panels/CourseProgressPanel.qml
+/qt/qml/courses/panels/WeeklyActivityPanel.qml
+/qt/qml/courses/stores/RootStore.qml

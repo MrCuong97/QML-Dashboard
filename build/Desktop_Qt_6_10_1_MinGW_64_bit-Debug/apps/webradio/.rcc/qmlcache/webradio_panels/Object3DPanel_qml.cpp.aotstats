@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 306,
+                            "functionName": "width",
+                            "line": 7,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 120,
+                            "functionName": "height",
+                            "line": 8,
+                            "message": "Cannot access value for name Style"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/apps/webradio/panels/Object3DPanel.qml"
+                }
+            ],
+            "moduleId": "webradio(webradio)"
+        }
+    ]
+}

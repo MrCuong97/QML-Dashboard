@@ -1,0 +1,13 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/styles/qdashboardstyle/.qt/rcc/qmake_qdashboardstyle.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/styles/qdashboardstyle/.qt/rcc/qdashboardstyle_raw_qml_0.qrc
+/qt/qml/qdashboardstyle/BusyIndicator.qml
+/qt/qml/qdashboardstyle/Button.qml
+/qt/qml/qdashboardstyle/Dial.qml
+/qt/qml/qdashboardstyle/Label.qml
+/qt/qml/qdashboardstyle/Popup.qml
+/qt/qml/qdashboardstyle/RadioButton.qml
+/qt/qml/qdashboardstyle/Slider.qml
+/qt/qml/qdashboardstyle/Switch.qml
+/qt/qml/qdashboardstyle/ToolButton.qml

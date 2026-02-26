@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_qmake_utils.cpp"
+  ".qt/rcc/qrc_utils_raw_qml_0.cpp"
+  ".rcc/qmlcache/utils_Style_qml.cpp"
+  ".rcc/qmlcache/utils_Style_qml.cpp.aotstats"
+  ".rcc/qmlcache/utils_Tracer_qml.cpp"
+  ".rcc/qmlcache/utils_Tracer_qml.cpp.aotstats"
+  ".rcc/qmlcache/utils_qmlcache_loader.cpp"
+  "CMakeFiles/utils.dir/.qt/rcc/qrc_qmake_utils.cpp.obj"
+  "CMakeFiles/utils.dir/.qt/rcc/qrc_qmake_utils.cpp.obj.d"
+  "CMakeFiles/utils.dir/.qt/rcc/qrc_utils_raw_qml_0.cpp.obj"
+  "CMakeFiles/utils.dir/.qt/rcc/qrc_utils_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_Style_qml.cpp.obj"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_Style_qml.cpp.obj.d"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_Tracer_qml.cpp.obj"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_Tracer_qml.cpp.obj.d"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_qmlcache_loader.cpp.obj"
+  "CMakeFiles/utils.dir/.rcc/qmlcache/utils_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/utils.dir/utils_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/utils.dir/utils_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/utils.dir/utils_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/utils.dir/utils_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/utils_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/utils_autogen.dir/ParseCache.txt"
+  "utils_autogen"
+  "libutils.a"
+  "libutils.pdb"
+  "meta_types/qt6utils_metatypes.json"
+  "meta_types/qt6utils_metatypes.json.gen"
+  "meta_types/utils_json_file_list.txt"
+  "meta_types/utils_json_file_list.txt.timestamp"
+  "utils.qmltypes"
+  "utils_autogen/mocs_compilation.cpp"
+  "utils_autogen/timestamp"
+  "utils_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/utils.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

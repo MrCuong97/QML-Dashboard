@@ -1,0 +1,9 @@
+module utils
+linktarget utilsplugin
+optional plugin utilsplugin
+classname utilsPlugin
+typeinfo utils.qmltypes
+prefer :/qt/qml/utils/
+singleton Style 1.0 Style.qml
+Tracer 1.0 Tracer.qml
+

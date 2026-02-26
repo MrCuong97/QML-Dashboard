@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/qt/qml/qdashboardstyle/">
+    <file alias="BusyIndicator.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/BusyIndicator.qml</file>
+    <file alias="Button.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Button.qml</file>
+    <file alias="Dial.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Dial.qml</file>
+    <file alias="Label.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Label.qml</file>
+    <file alias="Popup.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Popup.qml</file>
+    <file alias="RadioButton.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/RadioButton.qml</file>
+    <file alias="Slider.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Slider.qml</file>
+    <file alias="Switch.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Switch.qml</file>
+    <file alias="ToolButton.qml">D:/QTProject/QML-Dashboard/styles/qdashboardstyle/ToolButton.qml</file>
+  </qresource>
+</RCC>
+

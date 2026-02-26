@@ -1,0 +1,16 @@
+--bare
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/views
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/views
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/views/.qt/rcc/qmake_views.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/views/.qt/rcc/views_raw_qml_0.qrc
+D:/QTProject/QML-Dashboard/imports/views/RemindersListView.qml
+--json
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/views_qmllint.json

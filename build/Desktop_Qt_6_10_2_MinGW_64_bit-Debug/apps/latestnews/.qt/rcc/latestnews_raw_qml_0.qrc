@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/latestnews/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/apps/latestnews/Main.qml</file>
+    <file alias="panels/CategoriesPanel.qml">D:/QTProject/QML-Dashboard/apps/latestnews/panels/CategoriesPanel.qml</file>
+    <file alias="views/NewsItemsView.qml">D:/QTProject/QML-Dashboard/apps/latestnews/views/NewsItemsView.qml</file>
+    <file alias="stores/RootStore.qml">D:/QTProject/QML-Dashboard/apps/latestnews/stores/RootStore.qml</file>
+  </qresource>
+</RCC>
+

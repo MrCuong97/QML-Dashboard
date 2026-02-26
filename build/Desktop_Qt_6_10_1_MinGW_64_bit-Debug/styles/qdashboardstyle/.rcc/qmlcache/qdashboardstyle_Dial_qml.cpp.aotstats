@@ -1,0 +1,207 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 320,
+                            "functionName": "implicitWidth",
+                            "line": 9,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 169,
+                            "functionName": "implicitHeight",
+                            "line": 10,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 190,
+                            "functionName": "width",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 43,
+                            "functionName": "height",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 88,
+                            "functionName": "radius",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 138,
+                            "functionName": "color",
+                            "line": 18,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 105,
+                            "functionName": "width",
+                            "line": 22,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 49,
+                            "functionName": "height",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 12,
+                            "durationMicroseconds": 312,
+                            "functionName": "x",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 12,
+                            "durationMicroseconds": 281,
+                            "functionName": "y",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 35,
+                            "functionName": "radius",
+                            "line": 26,
+                            "message": "Cannot access value for name handle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 124,
+                            "functionName": "color",
+                            "line": 28,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 145,
+                            "functionName": "scale",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 104,
+                            "functionName": "color",
+                            "line": 27,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 29,
+                            "functionName": "width",
+                            "line": 32,
+                            "message": "Cannot access value for name handle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 48,
+                            "functionName": "height",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 86,
+                            "functionName": "radius",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 115,
+                            "functionName": "color",
+                            "line": 37,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 68,
+                            "functionName": "centerIn",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 106,
+                            "functionName": "color",
+                            "line": 36,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 77,
+                            "functionName": "angle",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 33,
+                            "functionName": "x",
+                            "line": 45,
+                            "message": "Cannot access value for name handle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 25,
+                            "functionName": "y",
+                            "line": 46,
+                            "message": "Cannot access value for name handle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 65,
+                            "functionName": "y",
+                            "line": 41,
+                            "message": "Cannot access value for name handle"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/styles/qdashboardstyle/Dial.qml"
+                }
+            ],
+            "moduleId": "qdashboardstyle(qdashboardstyle)"
+        }
+    ]
+}

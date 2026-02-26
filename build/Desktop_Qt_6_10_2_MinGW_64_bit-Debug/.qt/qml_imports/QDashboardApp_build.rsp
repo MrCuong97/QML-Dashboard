@@ -1,0 +1,16 @@
+-rootPath
+D:/QTProject/QML-Dashboard
+-cmake-output
+-output-file
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/qml_imports/QDashboardApp_build.cmake
+-importPath
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-importPath
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Main
+-importPath
+C:/Qt/6.10.2/mingw_64/qml
+-qrcFiles
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/configuration.qrc
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Main.qrc
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/QDashboardApp_raw_qml_0.qrc
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/assets/.qt/rcc/assets.qrc

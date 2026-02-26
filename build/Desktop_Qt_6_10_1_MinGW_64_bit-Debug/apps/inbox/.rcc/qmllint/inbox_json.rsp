@@ -1,0 +1,16 @@
+--bare
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/inbox/.qt/rcc/qmake_inbox.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/inbox/.qt/rcc/inbox_raw_qml_0.qrc
+D:/QTProject/QML-Dashboard/apps/inbox/Main.qml
+D:/QTProject/QML-Dashboard/apps/inbox/views/InboxView.qml
+D:/QTProject/QML-Dashboard/apps/inbox/controls/InboxViewDelegate.qml
+D:/QTProject/QML-Dashboard/apps/inbox/stores/RootStore.qml
+D:/QTProject/QML-Dashboard/apps/inbox/stores/EmailsListModel.qml
+--json
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/inbox_qmllint.json

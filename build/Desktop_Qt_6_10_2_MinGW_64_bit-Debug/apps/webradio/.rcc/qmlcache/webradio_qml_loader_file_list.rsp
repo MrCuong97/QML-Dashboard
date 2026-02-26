@@ -1,0 +1,13 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/webradio/.qt/rcc/qmake_webradio.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/apps/webradio/.qt/rcc/webradio_raw_qml_0.qrc
+/qt/qml/webradio/Main.qml
+/qt/qml/webradio/views/RadioView.qml
+/qt/qml/webradio/views/RadioStationsView.qml
+/qt/qml/webradio/panels/Object3DPanel.qml
+/qt/qml/webradio/panels/RadioControlsPanel.qml
+/qt/qml/webradio/controls/RadioStationLogo.qml
+/qt/qml/webradio/controls/RadioStationDelegate.qml
+/qt/qml/webradio/stores/RootStore.qml
+/qt/qml/webradio/stores/WebRadioStationsModel.qml

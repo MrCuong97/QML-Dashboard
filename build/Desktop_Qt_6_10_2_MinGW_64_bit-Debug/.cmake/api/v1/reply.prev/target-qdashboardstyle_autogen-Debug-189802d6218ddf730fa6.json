@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"styles/qdashboardstyle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "qdashboardstyle_autogen_timestamp_deps::@4bc52e707cb657b9a01d"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "qdashboardstyle_autogen::@4bc52e707cb657b9a01d",
+	"isGeneratorProvided" : true,
+	"name" : "qdashboardstyle_autogen",
+	"paths" : 
+	{
+		"build" : "styles/qdashboardstyle",
+		"source" : "styles/qdashboardstyle"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/styles/qdashboardstyle/CMakeFiles/qdashboardstyle_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/styles/qdashboardstyle/CMakeFiles/qdashboardstyle_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/styles/qdashboardstyle/qdashboardstyle_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

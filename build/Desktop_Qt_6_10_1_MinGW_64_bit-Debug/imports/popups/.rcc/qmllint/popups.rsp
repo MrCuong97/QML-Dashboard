@@ -1,0 +1,13 @@
+--bare
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports/popups/.qt/rcc/qmake_popups.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/imports/popups/.qt/rcc/popups_raw_qml_0.qrc
+D:/QTProject/QML-Dashboard/imports/popups/NewOrReplyEmailPopup.qml
+D:/QTProject/QML-Dashboard/imports/popups/NewReminderPopup.qml
+D:/QTProject/QML-Dashboard/imports/popups/NewTaskPopup.qml
+D:/QTProject/QML-Dashboard/imports/popups/Popups.qml

@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libinboxplugin.a CMakeFiles/inboxplugin.dir/inboxplugin_autogen/mocs_compilation.cpp.obj CMakeFiles/inboxplugin.dir/inboxplugin_inboxPlugin.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libinboxplugin.a

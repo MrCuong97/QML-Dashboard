@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/controls/">
+    <file alias="BaseCard.qml">D:/QTProject/QML-Dashboard/imports/controls/BaseCard.qml</file>
+    <file alias="Separator.qml">D:/QTProject/QML-Dashboard/imports/controls/Separator.qml</file>
+  </qresource>
+</RCC>
+

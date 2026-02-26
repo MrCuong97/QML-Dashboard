@@ -1,0 +1,87 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 177,
+                            "functionName": "width",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 90,
+                            "functionName": "height",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 59,
+                            "functionName": "top",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 36,
+                            "functionName": "width",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 114,
+                            "functionName": "height",
+                            "line": 19,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 70,
+                            "functionName": "color",
+                            "line": 20,
+                            "message": "Cannot access value for name Style"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 31,
+                            "functionName": "centerIn",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 46,
+                            "functionName": "top",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 73,
+                            "functionName": "topMargin",
+                            "line": 29,
+                            "message": "Cannot access value for name Style"
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/mainui/mainmenu/MainMenu.qml"
+                }
+            ],
+            "moduleId": "mainui(mainui)"
+        }
+    ]
+}

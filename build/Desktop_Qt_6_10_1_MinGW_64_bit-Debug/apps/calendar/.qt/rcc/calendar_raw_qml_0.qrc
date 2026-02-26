@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/calendar/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/apps/calendar/Main.qml</file>
+    <file alias="views/TasksListView.qml">D:/QTProject/QML-Dashboard/apps/calendar/views/TasksListView.qml</file>
+    <file alias="panels/CalendarPanel.qml">D:/QTProject/QML-Dashboard/apps/calendar/panels/CalendarPanel.qml</file>
+    <file alias="stores/RootStore.qml">D:/QTProject/QML-Dashboard/apps/calendar/stores/RootStore.qml</file>
+  </qresource>
+</RCC>
+

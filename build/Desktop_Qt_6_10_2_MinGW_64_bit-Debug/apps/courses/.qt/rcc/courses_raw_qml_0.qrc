@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/courses/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/apps/courses/Main.qml</file>
+    <file alias="controls/HintCard.qml">D:/QTProject/QML-Dashboard/apps/courses/controls/HintCard.qml</file>
+    <file alias="controls/CircularBar.qml">D:/QTProject/QML-Dashboard/apps/courses/controls/CircularBar.qml</file>
+    <file alias="panels/CourseProgressPanel.qml">D:/QTProject/QML-Dashboard/apps/courses/panels/CourseProgressPanel.qml</file>
+    <file alias="panels/WeeklyActivityPanel.qml">D:/QTProject/QML-Dashboard/apps/courses/panels/WeeklyActivityPanel.qml</file>
+    <file alias="stores/RootStore.qml">D:/QTProject/QML-Dashboard/apps/courses/stores/RootStore.qml</file>
+  </qresource>
+</RCC>
+

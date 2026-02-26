@@ -1,0 +1,9 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/inbox/.qt/rcc/qmake_inbox.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/inbox/.qt/rcc/inbox_raw_qml_0.qrc
+/qt/qml/inbox/Main.qml
+/qt/qml/inbox/views/InboxView.qml
+/qt/qml/inbox/controls/InboxViewDelegate.qml
+/qt/qml/inbox/stores/RootStore.qml
+/qt/qml/inbox/stores/EmailsListModel.qml

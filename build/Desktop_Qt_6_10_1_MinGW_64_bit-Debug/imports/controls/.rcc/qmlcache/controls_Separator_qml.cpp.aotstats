@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 12,
+                            "durationMicroseconds": 399,
+                            "functionName": "width",
+                            "line": 6,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 3682,
+                            "functionName": "height",
+                            "line": 7,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 12,
+                            "durationMicroseconds": 84,
+                            "functionName": "color",
+                            "line": 8,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QTProject/QML-Dashboard/imports/controls/Separator.qml"
+                }
+            ],
+            "moduleId": "controls(controls)"
+        }
+    ]
+}

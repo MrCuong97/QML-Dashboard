@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/views/">
+    <file alias="RemindersListView.qml">D:/QTProject/QML-Dashboard/imports/views/RemindersListView.qml</file>
+  </qresource>
+</RCC>
+

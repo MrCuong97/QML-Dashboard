@@ -1,0 +1,8 @@
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/latestnews/.qt/rcc/qmake_latestnews.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apps/latestnews/.qt/rcc/latestnews_raw_qml_0.qrc
+/qt/qml/latestnews/Main.qml
+/qt/qml/latestnews/panels/CategoriesPanel.qml
+/qt/qml/latestnews/views/NewsItemsView.qml
+/qt/qml/latestnews/stores/RootStore.qml

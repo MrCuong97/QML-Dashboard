@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/qt/qml/webradio/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/apps/webradio/Main.qml</file>
+    <file alias="views/RadioView.qml">D:/QTProject/QML-Dashboard/apps/webradio/views/RadioView.qml</file>
+    <file alias="views/RadioStationsView.qml">D:/QTProject/QML-Dashboard/apps/webradio/views/RadioStationsView.qml</file>
+    <file alias="panels/Object3DPanel.qml">D:/QTProject/QML-Dashboard/apps/webradio/panels/Object3DPanel.qml</file>
+    <file alias="panels/RadioControlsPanel.qml">D:/QTProject/QML-Dashboard/apps/webradio/panels/RadioControlsPanel.qml</file>
+    <file alias="controls/RadioStationLogo.qml">D:/QTProject/QML-Dashboard/apps/webradio/controls/RadioStationLogo.qml</file>
+    <file alias="controls/RadioStationDelegate.qml">D:/QTProject/QML-Dashboard/apps/webradio/controls/RadioStationDelegate.qml</file>
+    <file alias="stores/RootStore.qml">D:/QTProject/QML-Dashboard/apps/webradio/stores/RootStore.qml</file>
+    <file alias="stores/WebRadioStationsModel.qml">D:/QTProject/QML-Dashboard/apps/webradio/stores/WebRadioStationsModel.qml</file>
+  </qresource>
+</RCC>
+

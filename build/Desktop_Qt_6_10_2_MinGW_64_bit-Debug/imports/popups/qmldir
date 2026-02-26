@@ -1,0 +1,11 @@
+module popups
+linktarget popupsplugin
+optional plugin popupsplugin
+classname popupsPlugin
+typeinfo popups.qmltypes
+prefer :/qt/qml/popups/
+NewOrReplyEmailPopup 1.0 NewOrReplyEmailPopup.qml
+NewReminderPopup 1.0 NewReminderPopup.qml
+NewTaskPopup 1.0 NewTaskPopup.qml
+Popups 1.0 Popups.qml
+

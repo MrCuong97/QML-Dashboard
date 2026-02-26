@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/mainui/">
+    <file alias="home/Dashboard.qml">D:/QTProject/QML-Dashboard/mainui/home/Dashboard.qml</file>
+    <file alias="home/Header.qml">D:/QTProject/QML-Dashboard/mainui/home/Header.qml</file>
+    <file alias="home/HomePage.qml">D:/QTProject/QML-Dashboard/mainui/home/HomePage.qml</file>
+    <file alias="mainmenu/MainMenu.qml">D:/QTProject/QML-Dashboard/mainui/mainmenu/MainMenu.qml</file>
+    <file alias="mainmenu/MainMenuList.qml">D:/QTProject/QML-Dashboard/mainui/mainmenu/MainMenuList.qml</file>
+    <file alias="mainmenu/UserInfo.qml">D:/QTProject/QML-Dashboard/mainui/mainmenu/UserInfo.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/popups
+-I
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/popups
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/popups/.qt/rcc/qmake_popups.qrc
+--resource
+D:/QTProject/QML-Dashboard/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/imports/popups/.qt/rcc/popups_raw_qml_0.qrc
+--module
+popups

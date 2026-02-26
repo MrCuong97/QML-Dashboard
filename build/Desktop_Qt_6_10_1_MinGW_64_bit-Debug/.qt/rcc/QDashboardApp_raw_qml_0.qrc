@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="Main.qml">D:/QTProject/QML-Dashboard/Main.qml</file>
+  </qresource>
+</RCC>
+
